@@ -30,8 +30,8 @@ Here are some of my coursework projects from my ongoing Bachelor of Computing de
     </tr>
     <tr>
         <td><strong>2024</strong></td>
-        <td><a href="#">OOSE</a>, <a href="#">OS</a></td>
-        <td><a href="#">MAD</a>, <a href="#">DC</a>, <a href="#">DBS</a></td>
+        <td><a href="https://github.com/Devmilana/OOSE">OOSE</a>, <a href="https://github.com/Devmilana/OS">OS</a></td>
+        <td><a href="https://github.com/Devmilana/MAD">MAD</a>, <a href="https://github.com/Devmilana/DC">DC</a>, <a href="https://github.com/Devmilana/DBS">DBS</a></td>
     </tr>
 </table>
 
