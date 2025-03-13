@@ -56,6 +56,8 @@ Here are some of my coursework projects from my Bachelor of Computing degree:
 
 ## 🌐 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Current Mental Health Landscape in Sri Lanka](https://medium.com/@fernandoprashantha/current-mental-health-landscape-in-sri-lanka-0f3bad92c781?source=rss-41be4fc91eec------2)
+- [Leveraging Technology for Mental Health Support in Sri Lanka](https://medium.com/@fernandoprashantha/leveraging-technology-for-mental-health-support-in-sri-lanka-7dd126e671a6?source=rss-41be4fc91eec------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
